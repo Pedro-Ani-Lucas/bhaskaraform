@@ -1,10 +1,3 @@
-/**
- * @(#)Exercicio1.java
- *
- *
- * @author 
- * @version 1.00 2024/3/4
- */
 import java.util.*;
 import static java.lang.Math.*;
 import java.util.Scanner;
